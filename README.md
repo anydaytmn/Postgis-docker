@@ -1,2 +1,0 @@
-# Postgis-docker
-# Wildfly-docker
